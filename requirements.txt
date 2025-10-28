@@ -1,1 +1,3 @@
-idk
+streamlit
+matplotlib
+numpy
